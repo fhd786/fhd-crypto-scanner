@@ -24,4 +24,4 @@ jobs:
 
       - name: Run Crypto Scanner
         run: |
-        python "Smart Future Scanner AI Final/final_main_engine.py"
+        python Smart Future Scanner AI Final/final_main_engine.py
